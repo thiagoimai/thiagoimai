@@ -6,7 +6,7 @@
 ## CONTATOS📞
 
 
-[![Contato](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/kuGeQBhwE3)
+[![Contato](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/KdMFB6dAuh)
 
 
 ## TECNOLOGIAS💻
