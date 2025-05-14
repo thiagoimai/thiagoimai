@@ -17,6 +17,5 @@
 ## 🧠 Sobre Mim
 
 Sou apaixonado por tecnologia e atualmente me dedico ao estudo e desenvolvimento de sistemas voltados para servidores de roleplay no FiveM.  
-Tenho experiência prática com criação e adaptação de scripts, integração de sistemas como inventário, administração, logs, e personalização de recursos para servidores brasileiros.  
-Busco sempre aprender novas ferramentas, contribuir com a comunidade e evoluir como desenvolvedor full stack dentro do ecossistema do FiveM.
-
+Estou estudando áreas como criação e adaptação de scripts, integração de sistemas (inventário, administração, logs) e personalização de recursos voltados a servidores de roleplay.  
+Apesar do meu foco inicial estar no ecossistema do FiveM, também busco expandir meus conhecimentos na programação em geral, explorando diferentes linguagens, estruturas e conceitos para crescer como desenvolvedor full stack e abrir novas oportunidades na área de tecnologia.
