@@ -17,8 +17,6 @@
 
 ![Thiago GitHub stats](https://github-readme-stats.vercel.app/api?username=thiagoimai&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thiagoimai&layout=compact&theme=tokyonight)
-[![trophy](https://github-profile-trophy.vercel.app/?username=thiagoimai&theme=tokyonight&no-frame=true&column=5)](https://github.com/ryo-ma/github-profile-trophy)
-![snake gif](https://github.com/thiagoimai/thiagoimai/blob/output/github-contribution-grid-snake.svg)
 
 ## 🧠 Sobre Mim
 
