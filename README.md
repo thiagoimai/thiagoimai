@@ -1,9 +1,6 @@
 # 👨‍💻 Bem-vindo(a) ao meu GitHub!
 ### Prazer, sou Thiago Imai — mas pode me chamar de **Koji**. 
 
-## TECNOLOGIAS💻
-
-
 ## 💻 TECNOLOGIAS
 
 ![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
